@@ -1,18 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# GitBench
-GitAssist menggunakan AI untuk mengotomatiskan pesan commit Anda, menangani unggahan massal dengan mulus, dan menyederhanakan manajemen repositori.
-=======
-# Firebase Studio
-=======
->>>>>>> 29b6a37 (update file readme.md dengan menjelaskan semua tentang website ini semua)
 
 # GitBench: Asisten Alur Kerja GitHub Berbasis AI
 
-<<<<<<< HEAD
-To get started, take a look at src/app/page.tsx.
->>>>>>> 537a1da (Initialized workspace with Firebase Studio)
-=======
 [![Lisensi: MIT](https://img.shields.io/badge/Lisensi-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg?logo=next.js)](https://nextjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-SDK%20v11-orange.svg?logo=firebase)](https://firebase.google.com/)
@@ -117,4 +105,3 @@ Kontribusi Anda sangat kami hargai! Jika Anda memiliki ide untuk fitur baru atau
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
->>>>>>> 29b6a37 (update file readme.md dengan menjelaskan semua tentang website ini semua)
