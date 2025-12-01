@@ -7,9 +7,9 @@ export function Donate() {
   return (
     <section id="donate" className="py-24 sm:py-32 bg-background">
       <div className="container text-center">
-        <h2 className="text-3xl md:text-5xl font-bold">Dukung GitAssist</h2>
+        <h2 className="text-3xl md:text-5xl font-bold">Dukung GitBench</h2>
         <p className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground">
-          GitAssist adalah proyek sumber terbuka. Kontribusi Anda membantu kami meningkatkan alat ini dan menjaganya tetap gratis untuk semua orang.
+          GitBench adalah proyek sumber terbuka. Kontribusi Anda membantu kami meningkatkan alat ini dan menjaganya tetap gratis untuk semua orang.
         </p>
         <div className="mt-8">
           <Button asChild size="lg" className="group">

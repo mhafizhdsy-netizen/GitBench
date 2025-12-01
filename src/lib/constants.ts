@@ -50,9 +50,9 @@ export const FEATURES: FeatureCard[] = [
 
 export const FAQ_ITEMS: FAQItem[] = [
   {
-    question: "Apakah GitAssist gratis untuk digunakan?",
+    question: "Apakah GitBench gratis untuk digunakan?",
     answer:
-      "Ya, GitAssist menawarkan paket gratis yang mencakup semua fitur inti untuk repositori publik. Kami percaya dalam menyediakan alat yang kuat untuk komunitas pengembang.",
+      "Ya, GitBench menawarkan paket gratis yang mencakup semua fitur inti untuk repositori publik. Kami percaya dalam menyediakan alat yang kuat untuk komunitas pengembang.",
   },
   {
     question: "Bagaimana cara kerja pembuatan pesan commit AI?",
@@ -65,14 +65,14 @@ export const FAQ_ITEMS: FAQItem[] = [
       "Tentu saja. Kami menggunakan GitHub OAuth yang aman, dan kami hanya meminta izin yang diperlukan untuk mengelola repositori Anda. Kredensial Anda tidak pernah disimpan di server kami.",
   },
   {
-    question: "Bisakah saya menggunakan GitAssist dengan repositori pribadi?",
+    question: "Bisakah saya menggunakan GitBench dengan repositori pribadi?",
     answer:
       "Dukungan untuk repositori pribadi adalah fitur yang direncanakan untuk penawaran premium di masa mendatang. Untuk saat ini, layanan ini difokuskan pada repositori publik.",
   },
   {
     question: "Apa yang terjadi ketika saya mengunggah file ZIP?",
     answer:
-      "GitAssist secara otomatis mengekstrak konten file ZIP Anda, mempertahankan struktur direktori, dan menyiapkannya untuk di-commit ke repositori GitHub pilihan Anda. Ini adalah cara yang mulus untuk mengunggah seluruh proyek.",
+      "GitBench secara otomatis mengekstrak konten file ZIP Anda, mempertahankan struktur direktori, dan menyiapkannya untuk di-commit ke repositori GitHub pilihan Anda. Ini adalah cara yang mulus untuk mengunggah seluruh proyek.",
   },
 ];
 

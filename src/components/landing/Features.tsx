@@ -36,7 +36,7 @@ export function Features() {
   return (
     <section id="features" className="container py-24 sm:py-32">
       <div className="text-center">
-        <h2 className="text-3xl md:text-5xl font-bold">Mengapa Anda Akan Menyukai GitAssist</h2>
+        <h2 className="text-3xl md:text-5xl font-bold">Mengapa Anda Akan Menyukai GitBench</h2>
         <p className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground">
           Semua yang Anda butuhkan untuk merampingkan alur kerja pengembangan Anda dan fokus pada hal yang paling penting: membuat kode.
         </p>

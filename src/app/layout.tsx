@@ -20,9 +20,9 @@ const fontMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'GitAssist - Asisten GitHub Berbasis AI Anda',
+  title: 'GitBench - Asisten GitHub Berbasis AI Anda',
   description:
-    'Kelola repositori GitHub Anda dengan mudah menggunakan pesan commit berbasis AI, unggahan massal, dan banyak lagi. GitAssist menyederhanakan alur kerja Anda.',
+    'Kelola repositori GitHub Anda dengan mudah menggunakan pesan commit berbasis AI, unggahan massal, dan banyak lagi. GitBench menyederhanakan alur kerja Anda.',
 };
 
 export default function RootLayout({

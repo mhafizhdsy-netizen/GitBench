@@ -26,7 +26,7 @@ export default function TermsPage() {
             <CardContent>
                 <article className="prose prose-invert mx-auto max-w-none">
                     <p className="lead">
-                        Selamat datang di GitAssist. Dengan mengakses atau menggunakan layanan kami, Anda menyetujui untuk terikat oleh ketentuan ini. Harap baca dengan seksama.
+                        Selamat datang di GitBench. Dengan mengakses atau menggunakan layanan kami, Anda menyetujui untuk terikat oleh ketentuan ini. Harap baca dengan seksama.
                     </p>
             
                     <h2>1. Penggunaan Layanan Kami</h2>
@@ -34,7 +34,7 @@ export default function TermsPage() {
                         Anda harus mengikuti kebijakan apa pun yang tersedia untuk Anda dalam Layanan. Anda hanya dapat menggunakan Layanan kami sebagaimana diizinkan oleh hukum. Kami dapat menangguhkan atau menghentikan penyediaan Layanan kami kepada Anda jika Anda tidak mematuhi ketentuan atau kebijakan kami atau jika kami sedang menyelidiki dugaan pelanggaran.
                     </p>
             
-                    <h2>2. Akun GitAssist Anda</h2>
+                    <h2>2. Akun GitBench Anda</h2>
                     <p>
                         Anda memerlukan akun GitHub untuk menggunakan Layanan kami. Anda bertanggung jawab untuk menjaga keamanan akun Anda. Anda juga bertanggung jawab atas aktivitas yang terjadi melalui akun Anda. Kami tidak dapat dan tidak akan bertanggung jawab atas kehilangan atau kerusakan apa pun yang timbul dari kegagalan Anda untuk mematuhi hal di atas.
                     </p>

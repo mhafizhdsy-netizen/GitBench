@@ -7,7 +7,7 @@ GitAssist menggunakan AI untuk mengotomatiskan pesan commit Anda, menangani ungg
 =======
 >>>>>>> 29b6a37 (update file readme.md dengan menjelaskan semua tentang website ini semua)
 
-# GitAssist: Asisten Alur Kerja GitHub Berbasis AI
+# GitBench: Asisten Alur Kerja GitHub Berbasis AI
 
 <<<<<<< HEAD
 To get started, take a look at src/app/page.tsx.
@@ -19,18 +19,18 @@ To get started, take a look at src/app/page.tsx.
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-purple.svg?logo=google-gemini)](https://ai.google.dev/)
 [![Shadcn UI](https://img.shields.io/badge/shadcn/ui-black?logo=shadcn-ui&logoColor=white)](https://ui.shadcn.com/)
 
-**GitAssist** adalah aplikasi web modern yang dirancang untuk menyederhanakan dan mempercepat alur kerja GitHub Anda. Dengan memanfaatkan kekuatan AI dari Google Gemini, GitAssist mengotomatiskan tugas-tugas yang membosankan, memungkinkan Anda untuk fokus pada hal yang paling penting: membuat kode berkualitas.
+**GitBench** adalah aplikasi web modern yang dirancang untuk menyederhanakan dan mempercepat alur kerja GitHub Anda. Dengan memanfaatkan kekuatan AI dari Google Gemini, GitBench mengotomatiskan tugas-tugas yang membosankan, memungkinkan Anda untuk fokus pada hal yang paling penting: membuat kode berkualitas.
 
 ### [➡️ Kunjungi Demo Langsung](https://gitassist.web.app/)
 
 ---
 
-![Cuplikan Layar GitAssist](https://images.unsplash.com/photo-1618423691384-1b094e219466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkYXJrJTIwdGVjaCUyMGRhc2hib2FyZHxlbnwwfHx8fDE3NjQ4NzE0ODR8MA&ixlib=rb-4.1.0&q=80&w=1080)
+![Cuplikan Layar GitBench](https://images.unsplash.com/photo-1618423691384-1b094e219466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkYXJrJTIwdGVjaCUyMGRhc2hib2FyZHxlbnwwfHx8fDE3NjQ4NzE0ODR8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ## ✨ Fitur Utama
 
 -   🚀 **Unggahan Massal**: Unggah beberapa file dan seluruh folder dengan mudah ke repositori GitHub Anda hanya dengan beberapa klik.
--   🗂️ **Ekstraksi ZIP Otomatis**: Cukup seret dan lepas file `.zip`. GitAssist akan secara otomatis mengekstrak isinya sambil mempertahankan struktur direktori asli.
+-   🗂️ **Ekstraksi ZIP Otomatis**: Cukup seret dan lepas file `.zip`. GitBench akan secara otomatis mengekstrak isinya sambil mempertahankan struktur direktori asli.
 -   🤖 **Pesan Commit Berbasis AI**: Biarkan AI kami menganalisis perubahan file Anda (`git diff`) dan secara otomatis menghasilkan pesan commit yang deskriptif dan sesuai dengan standar *Conventional Commits*.
 -   🔐 **Autentikasi GitHub Aman**: Masuk dengan aman menggunakan akun GitHub Anda melalui OAuth2. Token akses Anda disimpan dengan aman di sesi browser dan tidak pernah diekspos.
 -   📂 **Manajemen File Interaktif**: Setelah mengunggah, Anda dapat meninjau semua file yang akan di-commit dan menghapus file yang tidak diinginkan sebelum proses commit.
@@ -61,7 +61,7 @@ Ikuti langkah-langkah ini untuk menjalankan salinan lokal dari proyek ini.
 1.  **Clone repositori:**
     ```bash
     git clone https://github.com/mhafizhdsy-netizen/GitAssist.git
-    cd GitAssist
+    cd GitBench
     ```
 
 2.  **Instal dependensi:**

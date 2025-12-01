@@ -26,12 +26,12 @@ export default function PrivacyPage() {
             <CardContent>
                 <article className="prose prose-invert mx-auto max-w-none">
                     <p className="lead">
-                        Privasi Anda penting bagi kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda menggunakan layanan GitAssist.
+                        Privasi Anda penting bagi kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda menggunakan layanan GitBench.
                     </p>
                     
                     <h2>1. Informasi yang Kami Kumpulkan</h2>
                     <p>
-                        Saat Anda menggunakan GitAssist, kami dapat mengumpulkan informasi berikut:
+                        Saat Anda menggunakan GitBench, kami dapat mengumpulkan informasi berikut:
                         <ul>
                         <li><strong>Informasi Akun:</strong> Kami menggunakan autentikasi GitHub. Kami menerima nama pengguna, alamat email, dan URL avatar GitHub Anda. Kami tidak menyimpan kata sandi GitHub Anda.</li>
                         <li><strong>Data Repositori:</strong> Kami mengakses sementara konten file dan struktur repositori untuk melakukan unggahan dan menghasilkan pesan commit. Data ini tidak disimpan dalam jangka panjang di server kami.</li>
@@ -43,7 +43,7 @@ export default function PrivacyPage() {
                     <p>
                         Kami menggunakan informasi yang kami kumpulkan untuk:
                         <ul>
-                        <li>Menyediakan, mengoperasikan, dan memelihara GitAssist.</li>
+                        <li>Menyediakan, mengoperasikan, dan memelihara GitBench.</li>
                         <li>Mengautentikasi akun GitHub Anda.</li>
                         <li>Memproses unggahan file ke repositori pilihan Anda.</li>
                         <li>Menghasilkan pesan commit yang didukung AI.</li>

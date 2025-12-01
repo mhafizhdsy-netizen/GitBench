@@ -91,7 +91,7 @@ const Header = () => {
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <NewLogo className="h-12 w-12 text-primary" />
-            <span className="font-bold text-lg hidden sm:inline-block">GitAssist</span>
+            <span className="font-bold text-lg hidden sm:inline-block">GitBench</span>
           </Link>
 
           {!isLoginPage && (
@@ -129,7 +129,7 @@ const Header = () => {
               <div className="flex h-16 items-center justify-between">
                  <Link href="/" className="flex items-center gap-2" onClick={() => setMobileMenuOpen(false)}>
                   <NewLogo className="h-12 w-12 text-primary" />
-                  <span className="font-bold text-lg">GitAssist</span>
+                  <span className="font-bold text-lg">GitBench</span>
                 </Link>
                 <div className="flex items-center gap-2">
                     <Button variant="ghost" size="icon" onClick={() => setMobileMenuOpen(false)}>

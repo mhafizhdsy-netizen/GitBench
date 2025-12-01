@@ -15,7 +15,7 @@ const LargeFooter = () => (
         <div className="md:col-span-4">
           <Link href="/" className="flex items-center gap-2 mb-4">
             <NewLogo className="h-12 w-12 text-primary" />
-            <span className="text-2xl font-bold">GitAssist</span>
+            <span className="text-2xl font-bold">GitBench</span>
           </Link>
           <p className="text-muted-foreground text-sm max-w-xs">
             Alat berbasis AI untuk menyederhanakan alur kerja GitHub Anda dan meningkatkan produktivitas.
@@ -48,7 +48,7 @@ const LargeFooter = () => (
       </div>
       <div className="mt-12 pt-8 border-t">
         <p className="text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} GitAssist. Semua hak dilindungi.
+          © {new Date().getFullYear()} GitBench. Semua hak dilindungi.
         </p>
       </div>
     </div>
@@ -68,7 +68,7 @@ const SmallFooter = () => (
                 </Link>
             </div>
             <p className="text-center text-sm text-muted-foreground">
-                © {new Date().getFullYear()} GitAssist. Semua hak dilindungi.
+                © {new Date().getFullYear()} GitBench. Semua hak dilindungi.
             </p>
         </div>
     </footer>
